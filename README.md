@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -47,10 +46,7 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 =======
-# Snake-Game
-A fun and addictive Snake Game built with React (TSX) and Tailwind CSS. Navigate the snake, eat food, grow longer, and avoid crashing!
->>>>>>> b906c26126547205215078eb95f3867b23b5f853
-=======
+
 
 
 # Snake-Game
@@ -59,7 +55,7 @@ A fun and addictive Snake Game built with React (TSX) and Tailwind CSS...
 
 ## Gameplay Screenshot
 
-![Gameplay Image](assets/gameplay.png)
+![Snake Game Screenshot](Screenshot%20(466).png)
 
 ## Available Scripts
 ...
