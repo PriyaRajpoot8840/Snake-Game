@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -44,3 +45,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+=======
+# Snake-Game
+A fun and addictive Snake Game built with React (TSX) and Tailwind CSS. Navigate the snake, eat food, grow longer, and avoid crashing!
+>>>>>>> b906c26126547205215078eb95f3867b23b5f853
