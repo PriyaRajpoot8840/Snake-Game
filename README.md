@@ -51,6 +51,15 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 A fun and addictive Snake Game built with React (TSX) and Tailwind CSS. Navigate the snake, eat food, grow longer, and avoid crashing!
 >>>>>>> b906c26126547205215078eb95f3867b23b5f853
 =======
+
+
 # Snake-Game
-A fun and addictive Snake Game built with React (TSX) and Tailwind CSS. Navigate the snake, eat food, grow longer, and avoid crashing!
->>>>>>> 4c12f3d0dd14fa703d369bb1c294f3e2510cc6d8
+
+A fun and addictive Snake Game built with React (TSX) and Tailwind CSS...
+
+## Gameplay Screenshot
+
+![Gameplay Image](assets/gameplay.png)
+
+## Available Scripts
+...
