@@ -4,7 +4,7 @@ A fun and addictive Snake Game built with React (TSX) and Tailwind CSS. Navigate
 
 ## Gameplay Screenshot
 
-![Snake Game Screenshot](Screenshot%20(466).png)
+![Snake Game Screenshot](snake.png)
 
 ---
 
